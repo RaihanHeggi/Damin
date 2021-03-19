@@ -1,4 +1,4 @@
-class=recurrence-events,age,menopause,tumor-size=30-34,tumor-size=20-24,tumor-size=0-4,tumor-size=50-54,tumor-size=25-29,tumor-size=15-19,tumor-size=40-44,tumor-size=35-39,tumor-size=45-49,inv-nodes,node-caps,deg-malig,breast=right,breast-quad=left_low,breast-quad=right_up,breast-quad=right_low,breast-quad=central,breast-quad=left_up,irradiat
+class,age,menopause,tumor-size=30-34,tumor-size=20-24,tumor-size=0-4,tumor-size=50-54,tumor-size=25-29,tumor-size=15-19,tumor-size=40-44,tumor-size=35-39,tumor-size=45-49,inv-nodes,node-caps,deg-malig,breast,breast-quad=left_low,breast-quad=right_up,breast-quad=right_low,breast-quad=central,breast-quad=left_up,irradiat
 0,2,2,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,no
 0,3,2,0,1,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,no
 0,3,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,no
